@@ -24,6 +24,7 @@ body {
 
 .component-box {
   display: flex;
+  display: -webkit-flex;
   flex-direction: column;
   padding: 3rem;
   background: #252d37;
