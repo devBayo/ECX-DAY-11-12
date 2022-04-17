@@ -24,13 +24,24 @@ body {
 
 .component-box {
   display: flex;
-  display: -webkit-flex;
   flex-direction: column;
   padding: 3rem;
   background: #252d37;
-  -webkit-column-gap: 2rem;
   border-radius: 2rem;
   gap: 2rem;
+}
+
+/* Media Query */
+@media screen and (max-width: 40rem) {
+  .component-box {
+    padding-bottom: 1rem;
+    display: flex;
+    gap: 0;
+  }
+
+  .component-box > * {
+    margin-bottom: 2rem;
+  }
 }
 
 .heading-secondary {
