@@ -32,7 +32,7 @@ body {
 }
 
 /* Media Query */
-@media screen and (max-width: 40rem) {
+@media screen and (max-width: 37.5rem) {
   .component-box {
     padding-bottom: 1rem;
     display: flex;
