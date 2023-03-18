@@ -11,4 +11,4 @@
 
 
 ## Below is the link to my hosted project
-https://hashvector.github.io/ECX-DAY-11-12/index.html
+https://devbayo.github.io/ECX-DAY-11-12/index.html
